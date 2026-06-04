@@ -11,6 +11,9 @@ The objective of this project is to analyze sales performance, customer behavior
 
 ## 🚀 Project Highlights
 
+<img width="1022" height="681" alt="Screenshot 2026-06-01 005205" src="https://github.com/user-attachments/assets/08686ca9-9fb9-4aac-bea5-2a02a9aac0ec" />
+
+
 ### KPI Metrics
 
 The dashboard provides the following key business metrics:
@@ -109,6 +112,10 @@ Contains:
 * Charts
 * Slicers
 * KPI Cards
+
+<img width="1920" height="1080" alt="PIVOT TABLES" src="https://github.com/user-attachments/assets/d06c9d20-c60b-4789-981f-70735f40b067" />
+
+
 
 ---
 
