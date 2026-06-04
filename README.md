@@ -1,5 +1,5 @@
 
-# 📊 Sales Analysis Dashboard (Excel)
+# 📊 Sales Analysis Dashboard :
 
 ## Overview
 
