@@ -200,8 +200,8 @@ MCA Student | Aspiring Data Analyst | Excel Dashboard Developer
 
 ### Connect With Me
 
-* GitHub: Add your GitHub profile link
-* LinkedIn: Add your LinkedIn profile link
+
+* LinkedIn: www.linkedin.com/in/rohit-ranju-78bzx
 
 ---
 
